@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+###
 - 🔭 I’m currently working on ... R-Projects through my Coding with R course.
 - 🌱 I’m currently learning ... on better ways to be more effiecent using R.
 - 👯 I’m looking to collaborate on ... Statistical analysis projects.
