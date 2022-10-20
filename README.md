@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... Statistical analysis projects.
 - 💬 Ask me about ... Probability and Sports!
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm from in IL but have been Studying at Grand Valley State University the last 4 years.
+- ⚡ Fun fact: ... I'm from IL but have been Studying at Grand Valley State University the last 4 years.
 
 
 <!--
