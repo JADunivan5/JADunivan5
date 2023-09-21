@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... R-Projects through my Coding with R course.
+- 🔭 I’m currently working on ... Applying for Jobs.
 - 🌱 I’m currently learning ... on better ways to be more effiecent using R.
 - 👯 I’m looking to collaborate on ... Statistical analysis projects.
 - 💬 Ask me about ... Probability and Sports!
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm from IL but have been Studying at Grand Valley State University the last 4 years.
+- ⚡ Fun fact: ... I'm from IL but live in Michigan currently.
 
 
 <!--
